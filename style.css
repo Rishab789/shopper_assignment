@@ -1100,67 +1100,8 @@ article p {
 
 }
 
-box8
+/* box8 */
 /* --------------------------------------------------------------------------------------------------- */
-
-.pop-icons2 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-
-
-
-}
-
-.pop-icons3 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-}
-
-.pop-icons4 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-}
-
-.pop-icons5 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-}
-
-.pop-icons6 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-}
-
-.pop-icons7 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-}
-
-.pop-icons8 {
-    display: flex;
-    gap: 10px;
-    position: absolute;
-    top: 80%;
-    left: 22%;
-}
 
 .bi-eye {
 
