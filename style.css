@@ -158,6 +158,7 @@ article p {
     transition: .2s;
     position: absolute;
     right: 7px;
+    display: flex;
 
 
 }
@@ -624,6 +625,7 @@ article p {
     pointer-events: none;
     transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+
 
 }
 
@@ -1107,6 +1109,9 @@ box8
     position: absolute;
     top: 80%;
     left: 22%;
+
+
+
 }
 
 .pop-icons3 {
