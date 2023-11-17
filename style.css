@@ -169,10 +169,6 @@ article p {
 
 }
 
-
-
-
-
 .left {
     background-size: cover;
     min-height: 470px;
@@ -181,9 +177,6 @@ article p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
-
-
 }
 
 .mid {
@@ -686,6 +679,7 @@ article p {
 .box2:hover {
     background: url('./public/images/item2b.jpg');
     background-size: cover;
+
 }
 
 
