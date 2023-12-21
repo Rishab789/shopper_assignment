@@ -345,7 +345,7 @@ article p {
     width: 120%;
     height: 100%;
     object-fit: cover;
-    mask: url('/public/images/kid-right.jpg');
+
 }
 
 .as:hover {
@@ -411,7 +411,7 @@ article p {
     width: 120%;
     height: 100%;
     object-fit: cover;
-    mask: url('/public/images/girl_left.jpg');
+
 
 }
 
@@ -479,7 +479,7 @@ article p {
     width: 120%;
     height: 100%;
     object-fit: cover;
-    mask: url('/public/images/girl_left.jpg');
+
 
 }
 
@@ -547,7 +547,7 @@ article p {
     width: 120%;
     height: 100%;
     object-fit: cover;
-    mask: url('/public/images/new2.png');
+
 
 }
 
